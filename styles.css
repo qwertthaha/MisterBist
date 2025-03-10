@@ -1,0 +1,17 @@
+.logo {
+    width: 1000px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 50px; /* Смещение вниз */
+    left: 800px; /* Смещение вправо */
+} 
+
+h1 {
+    color: rgb(255, 0, 0); /* Красный цвет текста */
+  }
+
+  body {
+    background: url('images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
